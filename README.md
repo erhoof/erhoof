@@ -6,7 +6,7 @@
   Computer Science student, <b>another</b> fan of MSDN 🔣
 </p>
   
-- 🌱 I’m currently learning C++ / C# / WinAPI (MS Stack), Graphical APIs
+- 🌱 I’m currently learning C++ / Python, Graphical APIs
 - 🤔 Always ready to talk about Linux, Web Technologies, Data Structuries
 - 📫 How to reach me: @erhoof just anywhere! You can send me a message right now!
 - ⚡ Fun fact: If you're speedy enough, you can hire me C:
