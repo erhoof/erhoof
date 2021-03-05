@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Computer Science student, <b>another</b> fan of MSDN 🔣
+  Computer Science student, <b>another</b> fan of r/programming 🔣
 </p>
   
 - 🌱 I’m currently learning C++ / Python, Graphical APIs
