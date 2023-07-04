@@ -6,7 +6,7 @@
   C++ Developer, <b>another</b> fan of r/programming 🔣
 </p>
   
-- 🌱 I’m currently learning C++ / Python, Graphical APIs
+- 🌱 I’m currently working on Linux software for POS terminal payments (EMV and stuff..)
 - 🤔 Always ready to talk about Linux, Web Technologies, Data Structuries
 - 📫 How to reach me: @erhoof just anywhere! You can send me a message right now!
 - ⚡ Fun fact: If you're speedy enough, you can hire me C:
