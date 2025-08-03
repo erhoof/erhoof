@@ -6,7 +6,7 @@
   C++ Developer, <b>another</b> fan of r/programming 🔣
 </p>
   
-- 🌱 I’m currently working on Linux software for POS terminals (EMV and stuff..)
+- 🌱 I am currently working at Open Mobile Platform on Aurora OS as a software engineer
 - 🤔 Always ready to talk about Linux, Programming, Web Technologies
 - 📫 How to reach me: @erhoof just anywhere! You can send me a message right now!
 - ⚡ Fun fact: If you're speedy enough, you can hire me C:
