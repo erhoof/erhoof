@@ -6,10 +6,9 @@
   C++ Developer, <b>another</b> fan of r/programming 🔣
 </p>
   
-- 🌱 I am currently working at Open Mobile Platform on Aurora OS as a software engineer
+- 🌱 I am currently working at Open Mobile Platform on Aurora OS as a Senior Software Engineer (SDK team)
 - 🤔 Always ready to talk about Linux, Programming, Web Technologies
 - 📫 How to reach me: @erhoof just anywhere! You can send me a message right now!
-- ⚡ Fun fact: If you're speedy enough, you can hire me C:
   
 <!--
 **erhoof/erhoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
